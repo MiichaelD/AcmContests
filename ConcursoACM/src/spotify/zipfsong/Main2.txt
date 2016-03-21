@@ -1,0 +1,69 @@
+4 2
+30 one
+30 two
+15 three
+25 four 
+
+four -	 100.0
+two -	 60.0
+three -	 45.0
+one -	 30.0
+
+
+
+
+
+
+15 3
+197812 re_hash
+78906 5_4
+189518 tomorrow_comes_today
+39453 new_genious
+210492 clint_eastwood
+26302 man_research
+22544 punk
+19727 sound_check
+17535 double_bass
+18782 rock_the_house
+198189 19_2000
+13151 latin_simone
+12139 starshine
+11272 slow_country
+10521 m1_a1 
+
+
+19_2000 -	 2180079.0
+clint_eastwood -	 1052460.0
+tomorrow_comes_today -	 568554.0
+re_hash -	 197812.0
+rock_the_house -	 187820.0
+sound_check -	 157816.0
+double_bass -	 157815.0
+m1_a1 -	 157815.0
+5_4 -	 157812.0
+new_genious -	 157812.0
+man_research -	 157812.0
+latin_simone -	 157812.0
+punk -	 157808.0
+slow_country -	 157808.0
+starshine -	 157807.0
+
+
+
+19_2000 			-	 11.020964349988878
+clint_eastwood -	 5.320506339352517
+tomorrow_comes_today -	 2.87421390006673
+re_hash 			-	 1.0
+rock_the_house - 0.9494873920692374
+sound_check -	     0.7978080197359109
+double_bass -	     0.7978029644308738
+m1_a1 -	             0.7978029644308737
+man_research -	 0.7977877985157625
+latin_simone -	     0.7977877985157625
+5_4 -	                 0.7977877985157624
+new_genious -	 0.7977877985157624
+punk -	                 0.7977675772956141
+slow_country -	     0.7977675772956141
+starshine -	         0.797762521990577
+
+

@@ -1,0 +1,8 @@
+//password para candados:
+abcxyz
+abcdefghijklmnopqrstuvwxyz
+aaaaaaaaaa
+zzzzzzzzzz
+zzzzbzzzzz
+pn
+*
